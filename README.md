@@ -1,5 +1,5 @@
 # MiniProject_1
 
-# Gambar diagram ERD
+# I use this tool to help me 
+https://dbdiagram.io/d/647491a17764f72fcf07326a
 
-![ERD](/Milestone1 Mini Project-1.PNG)
